@@ -1,0 +1,18 @@
+{
+  "name": "conflict-find",
+  "main": "./lib/conflict-find",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "conflict-find:next-conflict"
+  },
+  "repository": "https://github.com/atom/conflict-find",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

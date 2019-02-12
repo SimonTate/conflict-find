@@ -1,0 +1,6 @@
+If you have questions, please
+<<<<<<< HEAD
+open an issue
+=======
+send your question to simontate94@gmail.com
+>>>>>>> my-new-branch

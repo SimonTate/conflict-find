@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Next conflict-find",
+        "command": "conflict-find:next-conflict"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "conflict-find",
+          "submenu": [
+            {
+              "label": "Next Conflict",
+              "command": "conflict-find:next-conflict"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
