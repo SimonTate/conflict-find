@@ -1,4 +1,6 @@
 '.platform-darwin atom-workspace':
   'cmd-shift-c': 'conflict-find:next-conflict'
+  'cmd-shift-o': 'conflict-find:prev-conflict'
 '.platform-linux atom-workspace, .platform-win32 atom-workspace':
   'ctrl-shift-c': 'conflict-find:next-conflict'
+  'ctrl-shift-o': 'conflict-find:prev-conflict'
