@@ -2,13 +2,13 @@
   "name": "conflict-find",
   "main": "./lib/conflict-find",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Find the next merge conflict in current file.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "conflict-find:next-conflict"
   },
-  "repository": "https://github.com/atom/conflict-find",
+  "repository": "https://github.com/SimonTate/conflict-find",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
