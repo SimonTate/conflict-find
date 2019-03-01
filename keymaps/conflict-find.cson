@@ -2,5 +2,5 @@
   'cmd-shift-c': 'conflict-find:next-conflict'
   'cmd-shift-o': 'conflict-find:prev-conflict'
 '.platform-linux atom-workspace, .platform-win32 atom-workspace':
-  'ctrl-shift-c': 'conflict-find:next-conflict'
-  'ctrl-shift-o': 'conflict-find:prev-conflict'
+  'ctrl-alt-c': 'conflict-find:next-conflict'
+  'ctrl-alt-o': 'conflict-find:prev-conflict'
