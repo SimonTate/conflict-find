@@ -1,12 +1,10 @@
 {
   "name": "conflict-find",
   "main": "./lib/conflict-find",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Find merge conflicts in current file.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
-    "atom-workspace": "conflict-find:next-conflict",
     "atom-workspace": "conflict-find:prev-conflict"
   },
   "repository": "https://github.com/SimonTate/conflict-find",
@@ -14,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
